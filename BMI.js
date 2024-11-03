@@ -70,7 +70,7 @@ function getBMIStateByAge(BMI, age) {
   /**
    *  Write your code here 👇🏼
    */
-  let BMIState = "not healthy";
+  
    age=50
    if(age>=19&&age<=24&&BMI>=19&&BMI<=24){
     BMIState="healthy";
